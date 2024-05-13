@@ -14,11 +14,7 @@ git clone https://github.com/reviwh/information_service_flutter
 
 ### Obtain the Database and API from Another Repository
 
-You'll need to fetch the necessary database and API from another repository. Clone the repository using:
-
-```bash
-git clone hhttps://github.com/reviwh/information_service_php.git
-```
+You'll need to fetch the necessary database and API from [another repository](https://github.com/reviwh/information_service_php).
 
 ### Navigate to the Project Directory
 
